@@ -1,4 +1,4 @@
-package com.example.honoassigment1;
+package com.example.honoassignment;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
